@@ -9,7 +9,7 @@
 
 # Для запуска
 
-```git clone [https]```
+```git clone https://github.com/georgkat/mast-test.git```
 
 Далее в строках 15-20 ввести необходимые данные для почтового сервера (логин и пароль, в случае Яндекса)
 
@@ -17,7 +17,7 @@
 
 Для остановки
 
-```python3 wikipedia_parser start``` 
+```python3 wikipedia_parser stop``` 
 
 
 ### Задача
