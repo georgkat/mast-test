@@ -7,6 +7,8 @@
 
 На Windows 10 не работает.
 
+По ссылке в конце текста описание логики выполнения задачи.
+
 # Для запуска
 
 ```git clone https://github.com/georgkat/mast-test.git```
